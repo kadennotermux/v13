@@ -1,21 +1,11 @@
-<p align="center">
-<img src="https://telegra.ph/file/8c988b0bd80b582673019.jpg" alt="LEXXY BOT" width="200"/>
 
-<p align="center">
-    <a href="https://Lexxy24.github.io">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+Lexxy+Official+🌐"
-            alt="Lexxy Official"
-        />
-    </a>
-</p>
 
 # BOTV13
 ## Heroku Buildpack
 
 Click the deploy icon below !
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lexxy24/v13)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kadennotermux/v13)
 
 ```bash
  > heroku/nodejs
@@ -52,9 +42,3 @@ Edit Nomor Owner DLL `'./settings/setting.json'`
 "YoutubeOwner":"https://youtube.com/c/LEX4YOUU",
 "GroupOwner":"https://chat.whatsapp.com/DiexeOhNqQv5Qsm6Y2vD4d"
 }
-```
-
-# My Sosial
-- [Group ](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [YouTube ](https://youtube.com/c/LEX4YOUU)
-- [Whatsapp ](https://wa.me/6285789004732)
